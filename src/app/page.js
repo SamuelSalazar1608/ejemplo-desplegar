@@ -42,6 +42,8 @@ export default function Home() {
        
         {/* Título de la página */}
         <h1 className="text-3xl font-bold mb-4 text-blue-600">Mi Primera App Fullstack</h1>
+        <h1 className="text-3xl font-bold mb-4 text-blue-600">Hecho con Next js</h1>
+        
        
         {/* Mostramos el mensaje que trajimos desde el backend */}
         <p className="text-xl text-gray-800">
